@@ -10,6 +10,7 @@
 This repository contains the implementation of an artificial intelligence agent for the board game *Fox and Hounds*. The project uses adversarial search (Minimax with Alpha-Beta pruning) and a heuristic evaluation function.
 
 The project proposal pdf and proposal ppt can be found in the `docs` folder.
+
 [Proposal PPT](docs/CS4795_AI_Proposal_PPT.pptx)
 
 ---
