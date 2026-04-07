@@ -29,6 +29,11 @@ The final presentation PPT and video are available in the `presentation` folder.
 
 --
 
+## Final Presentation Video
+[Click here to view the final presentation video](https://drive.google.com/file/d/1YtiF95N-4BKZnit2GF_9JN2plJZDCsLU/view?usp=sharing)
+
+--
+
 ## Code
 All implementation files (game logic, assets, and sounds) are available in the `code` folder.
 [Python Code](code/fox_and_hounds_game.py)
