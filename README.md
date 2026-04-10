@@ -23,7 +23,7 @@ This repository contains the implementation of an artificial intelligence agent 
 ---
 
 ## Final Report 
-- Final Report (in 'docs' folder): [Final Report](docs/CS4795_Final_Report.docx)
+- Final Report (in `docs` folder): [Final Report](docs/CS4795_Final_Report.docx)
 
 ---
 
