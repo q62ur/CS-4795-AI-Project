@@ -46,5 +46,6 @@ This repository contains the implementation of an artificial intelligence agent 
 All implementation files (game logic, assets and sounds) are available in the `code` folder.
 [Python Code](code/fox_and_hounds_game.py)
 
+---
 
 GitHub repository for this project was maintained and organized by Chanchal Preet Kaur.
