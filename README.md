@@ -43,5 +43,5 @@ This repository contains the implementation of an artificial intelligence agent 
 ---
 
 ## Code
-All implementation files (game logic, assets, and sounds) are available in the `code` folder.
+All implementation files (game logic, assets and sounds) are available in the `code` folder.
 [Python Code](code/fox_and_hounds_game.py)
