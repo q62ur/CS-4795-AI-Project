@@ -22,6 +22,11 @@ This repository contains the implementation of an artificial intelligence agent 
 
 ---
 
+## Final Report (in 'docs' folder)
+- Final Report: [Final Report](docs/CS4795_Final_Report.docx)
+
+---
+
 ## Final Presentation (google drive link)
 - Final PPT (in `presentation` folder): [Final PPT](presentation/CS4795_Final_PPT.pptx)
 
@@ -29,6 +34,11 @@ This repository contains the implementation of an artificial intelligence agent 
 
 ## Final Presentation Video (google drive link)
 [Click here to view the final presentation video](https://drive.google.com/file/d/1YtiF95N-4BKZnit2GF_9JN2plJZDCsLU/view?usp=sharing)
+
+---
+
+## Game Demo Video (google drive link)
+[Click here to watch the game demo](https://drive.google.com/file/d/1SG8hLTDf9S8INxVn5kOdD5X5XT8mpTAO/view?usp=sharing)
 
 ---
 
